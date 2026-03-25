@@ -23,8 +23,6 @@
 
 ![MixCollage-04-Mar-2024-04-59-PM-7716](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/4a0c863c-57c3-4e2c-951e-c0913c18cd22)
 
-![MixCollage-04-Mar-2024-04-40-PM-9170](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/a22a4741-e08d-4bfc-ac0b-8d2bc8f136d9)
-
 ![Screenshot 2024-03-04 163923](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/1457ca8c-4ed6-4c20-9a89-cd1a2a83de72)
 
 ![Screenshot 2024-03-04 163412](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/4bef717f-479b-487c-935a-ed7c36169bcf)
