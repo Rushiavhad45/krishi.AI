@@ -1,7 +1,7 @@
 # 🌾 Kisan.ai
 
 **Revolutionizing Farm Management with Technology**  
-*Kisan.ai* is an project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.
+*Kisan.ai* is a project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.
 
 ## 🌟 Key Features
 
@@ -15,13 +15,14 @@
 - **🕶️ AR Visualization**: Manage inventory with 3D AR models.
 
 
-
 ## 🛠️ Technologies Used
 - Django | AI & ML | AR | SMS/WhatsApp API
 
 ![Screenshot 2024-03-04 163221](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/fcabdaa5-184a-4d11-b9d0-01dd90a68b0e)
 
 ![MixCollage-04-Mar-2024-04-59-PM-7716](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/4a0c863c-57c3-4e2c-951e-c0913c18cd22)
+
+![MixCollage-04-Mar-2024-04-40-PM-9170](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/a22a4741-e08d-4bfc-ac0b-8d2bc8f136d9)
 
 ![Screenshot 2024-03-04 163923](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/1457ca8c-4ed6-4c20-9a89-cd1a2a83de72)
 
