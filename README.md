@@ -14,15 +14,7 @@
 - **🛠️ Automated Tool Crafting**: Simplified creation of tools from available resources.
 - **🕶️ AR Visualization**: Manage inventory with 3D AR models.
 
-## 🔗 Links
-- [Project](https://devfolio.co/projects/kisanai-499c)
-- [Hackathon Win Announcement](https://www.linkedin.com/posts/aryankyatham_we-won-the-google-international-level-hackathon-activity-7167872040169861120-soVz)
 
-## 👥 Developers
-- Aryan Kyatham
-- Sharvin Gavad
-- Myron Dabreo
-- Neston Cabral
 
 ## 🛠️ Technologies Used
 - Django | AI & ML | AR | SMS/WhatsApp API
