@@ -1,7 +1,7 @@
-# 🌾 Kisan.ai
+# 🌾 Krishi.ai
 
 **Revolutionizing Farm Management with Technology**  
-*Kisan.ai* is a project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.
+*Krishi.ai* is a project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.
 
 ## 🌟 Key Features
 
