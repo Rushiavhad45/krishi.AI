@@ -1,7 +1,7 @@
 # 🌾 Kisan
 
 **Revolutionizing Farm Management with Technology**  
-*Kisan* is a project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.
+*Kisan* is a project that modernizes farming by integrating AI, and real-time updates, making agriculture more efficient, profitable, and sustainable.
 
 ## 🌟 Key Features
 
