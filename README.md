@@ -1,7 +1,7 @@
-# 🌾 Krishi.ai
+# 🌾 Kisan
 
 **Revolutionizing Farm Management with Technology**  
-*Krishi.ai* is a project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.
+*Kisan* is a project that modernizes farming by integrating AI, AR, and real-time updates, making agriculture more efficient, profitable, and sustainable.
 
 ## 🌟 Key Features
 
@@ -11,12 +11,12 @@
 - **🤖 AI Resource Estimation**: Optimize resources based on soil, season, and crop needs.
 - **📈 Market Insights**: Current prices and trader contacts for informed selling.
 - **🌦️ Weather Forecasting**: Tailored forecasts for better planning.
-- **🛠️ Automated Tool Crafting**: Simplified creation of tools from available resources.
-- **🕶️ AR Visualization**: Manage inventory with 3D AR models.
+
+
 
 
 ## 🛠️ Technologies Used
-- Django | AI & ML | AR | SMS/WhatsApp API
+- Django | AI & ML | SMS/WhatsApp API
 
 ![Screenshot 2024-03-04 163221](https://github.com/ARYANK-08/KISANInv.AI/assets/120780784/fcabdaa5-184a-4d11-b9d0-01dd90a68b0e)
 
